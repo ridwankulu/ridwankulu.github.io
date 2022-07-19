@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Ridwan Kulu</title>
+    <link>https://ridwankulu.github.io/tags/github/</link>
+    <description>Recent content in Github on Ridwan Kulu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <managingEditor>ridwankulu47@gmail.com (Ridwan Kulu)</managingEditor>
+    <webMaster>ridwankulu47@gmail.com (Ridwan Kulu)</webMaster>
+    <lastBuildDate>Thu, 23 Jun 2022 19:39:13 +0000</lastBuildDate><atom:link href="https://ridwankulu.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Deploy/Hosting Hugo Ke Github</title>
+      <link>https://ridwankulu.github.io/post/cara-deploy-hugo-ke-github/</link>
+      <pubDate>Thu, 23 Jun 2022 19:39:13 +0000</pubDate>
+      <author>ridwankulu47@gmail.com (Ridwan Kulu)</author>
+      <guid>https://ridwankulu.github.io/post/cara-deploy-hugo-ke-github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

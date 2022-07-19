@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ridwan Kulu</title>
+    <link>https://ridwankulu.github.io/post/</link>
+    <description>Recent content in Posts on Ridwan Kulu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <managingEditor>ridwankulu47@gmail.com (Ridwan Kulu)</managingEditor>
+    <webMaster>ridwankulu47@gmail.com (Ridwan Kulu)</webMaster>
+    <lastBuildDate>Thu, 23 Jun 2022 19:39:13 +0000</lastBuildDate><atom:link href="https://ridwankulu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Deploy/Hosting Hugo Ke Github</title>
+      <link>https://ridwankulu.github.io/post/cara-deploy-hugo-ke-github/</link>
+      <pubDate>Thu, 23 Jun 2022 19:39:13 +0000</pubDate>
+      <author>ridwankulu47@gmail.com (Ridwan Kulu)</author>
+      <guid>https://ridwankulu.github.io/post/cara-deploy-hugo-ke-github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cara Mudah Membuat Blog Dengan Hugo</title>
+      <link>https://ridwankulu.github.io/post/membuat-blog-dengan-hugo/</link>
+      <pubDate>Fri, 03 Jun 2022 01:46:46 +0000</pubDate>
+      <author>ridwankulu47@gmail.com (Ridwan Kulu)</author>
+      <guid>https://ridwankulu.github.io/post/membuat-blog-dengan-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cara Menghubungkan Domain Blogspot Dengan Cloudflare</title>
+      <link>https://ridwankulu.github.io/post/cara-menghubungkan-domain-blogspot-dengan-cloudflare/</link>
+      <pubDate>Mon, 16 May 2022 12:59:44 +0700</pubDate>
+      <author>ridwankulu47@gmail.com (Ridwan Kulu)</author>
+      <guid>https://ridwankulu.github.io/post/cara-menghubungkan-domain-blogspot-dengan-cloudflare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cara Install SSL Lets Encrypt Apache Di Debian10</title>
+      <link>https://ridwankulu.github.io/post/cara-install-lets-encrypt-debian10/</link>
+      <pubDate>Sat, 05 Mar 2022 02:50:12 +0700</pubDate>
+      <author>ridwankulu47@gmail.com (Ridwan Kulu)</author>
+      <guid>https://ridwankulu.github.io/post/cara-install-lets-encrypt-debian10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
